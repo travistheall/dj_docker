@@ -1,0 +1,7 @@
+Pycharm
+PycharmConfig/venv/
+PycharmConfig/djangodocker/__pycache__/
+PycharmConfig/djangodocker/migrations/
+
+NoPycharm
+CmdLine/data/
